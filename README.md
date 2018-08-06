@@ -1,6 +1,6 @@
 # hello-world
 
-hi! I'm Beatriz. Call me Betty, please.
+Hi! I'm Beatriz. Call me Betty, please.
 
 Actually, I live in South Korea.
 
